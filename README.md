@@ -1,3 +1,40 @@
+# Mini Sign Language Visual Dictionary - Frontend
+
+This is the frontend for the Mini Sign Language Visual Dictionary, a MERN stack application that allows users to search, add, edit, and delete sign language words with corresponding definitions, images, and videos.
+
+## Features
+
+- Search for words
+- Add new words with image and video support
+- Edit and update existing words
+- Delete words
+- Responsive layout with TailwindCSS
+- Global state management using Redux Toolkit
+- Loading spinner during async operations
+- Mobile-first responsive design
+
+
+##  Tech Stack
+
+- React (with TypeScript)
+- Redux Toolkit
+- TailwindCSS
+- Axios
+- Vite (or Create React App)
+- ESLint + Prettier
+
+##  Installation
+
+```bash
+git clone https://github.com/shwetkamal-gaud/sign-setu-frontend.git
+cd sign-setu-frontend
+npm install
+```
+##  Run Server
+```bash
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

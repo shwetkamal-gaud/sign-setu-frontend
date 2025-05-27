@@ -79,7 +79,7 @@ const Home: React.FC = () => {
     );
 
     return (
-        <div className="w-full p-6">
+        <div className="p-6">
             <div className="flex justify-between items-center mb-6">
                 <input
                     type="text"
